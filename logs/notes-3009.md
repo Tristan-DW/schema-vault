@@ -1,6 +1,6 @@
 # Notes
 
-chore: remove dead code
+feat: improve logging verbosity
 
-Timestamp: 2024-12-02T11:56:21Z
-Nonce: 948097
+Timestamp: 2024-12-04T17:51:49Z
+Nonce: 280017
