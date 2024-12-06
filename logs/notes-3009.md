@@ -1,6 +1,6 @@
 # Notes
 
-feat: improve logging verbosity
+fix: correct response envelope format
 
-Timestamp: 2024-12-04T17:51:49Z
-Nonce: 280017
+Timestamp: 2024-12-06T11:29:16Z
+Nonce: 148883
