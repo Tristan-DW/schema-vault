@@ -1,6 +1,6 @@
 # Notes
 
-chore: remove dead code
+fix: correct response envelope format
 
-Timestamp: 2025-01-01T11:17:38Z
-Nonce: 524466
+Timestamp: 2025-01-05T18:30:10Z
+Nonce: 695699
