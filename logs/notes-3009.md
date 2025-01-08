@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct response envelope format
+feat: add missing index to schema
 
-Timestamp: 2025-01-05T18:30:10Z
-Nonce: 695699
+Timestamp: 2025-01-08T08:43:45Z
+Nonce: 159613
