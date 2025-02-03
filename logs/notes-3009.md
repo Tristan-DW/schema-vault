@@ -1,6 +1,6 @@
 # Notes
 
-feat: extend config options
+fix: type mismatch in serializer
 
-Timestamp: 2025-01-30T17:25:40Z
-Nonce: 550815
+Timestamp: 2025-02-03T08:17:00Z
+Nonce: 913592
