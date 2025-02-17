@@ -1,6 +1,6 @@
 # Notes
 
-chore: remove dead code
+feat: add debug flag support
 
-Timestamp: 2025-02-14T13:47:38Z
-Nonce: 219946
+Timestamp: 2025-02-17T18:01:35Z
+Nonce: 510873
