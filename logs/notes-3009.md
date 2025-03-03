@@ -1,6 +1,6 @@
 # Notes
 
-feat: add debug flag support
+fix: correct default value handling
 
-Timestamp: 2025-02-24T07:46:48Z
-Nonce: 240607
+Timestamp: 2025-03-03T10:25:11Z
+Nonce: 108246
