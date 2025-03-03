@@ -1,6 +1,6 @@
 # Notes
 
-fix: correct default value handling
+feat: add missing index to schema
 
-Timestamp: 2025-03-03T10:25:11Z
-Nonce: 108246
+Timestamp: 2025-03-03T19:06:01Z
+Nonce: 254209
