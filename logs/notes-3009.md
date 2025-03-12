@@ -1,6 +1,6 @@
 # Notes
 
-refactor: rename for clarity
+feat: add debug flag support
 
-Timestamp: 2025-03-11T15:54:08Z
-Nonce: 569132
+Timestamp: 2025-03-12T10:24:03Z
+Nonce: 615276
