@@ -1,6 +1,6 @@
 # Notes
 
-fix: edge case in request validation
+fix: handle empty array input
 
-Timestamp: 2025-07-29T12:56:44Z
-Nonce: 799586
+Timestamp: 2025-08-07T12:41:49Z
+Nonce: 601309
