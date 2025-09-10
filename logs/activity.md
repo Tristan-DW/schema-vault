@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0080
+## Entry 0081
 
-- **Timestamp:** `2025-09-09T14:00:35Z`
-- **Commit:** 80 of 150
-- **Note:** fix: correct date parsing edge case
-- **Nonce:** 675601
+- **Timestamp:** `2025-09-10T20:58:30Z`
+- **Commit:** 81 of 150
+- **Note:** chore: remove deprecated utility methods
+- **Nonce:** 817700
