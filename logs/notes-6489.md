@@ -1,6 +1,6 @@
 # Notes
 
-feat: add missing null checks
+feat: improve logging verbosity
 
-Timestamp: 2025-12-02T17:52:05Z
-Nonce: 418301
+Timestamp: 2025-12-03T10:06:26Z
+Nonce: 902573
